@@ -10,3 +10,4 @@ __pycache__/
 .env
 model.pth
 Model.ipynb
+predict_another.ipynb
